@@ -57,17 +57,6 @@ function MarkdownViewer({ folderPath, fileName }: MarkdownViewerProps) {
       <Markdown
         components={{
           // Todo: video link or embedding/
-          img: ({ ...props }) => (
-            <img
-              {...props}
-              src={
-                props?.src?.startsWith("http")
-                  ? props.src
-                  : `/${folderPath}/${props.src}`
-              }
-              alt={props.alt}
-            />
-          ),
           a: ({ ...props }) => {
             if (props.href?.endsWith(".pdf")) {
               return (
