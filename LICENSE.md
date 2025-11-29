@@ -44,7 +44,7 @@
 
 ```
 來源：11.26 大埔宏福苑火災紀錄庫 (Hong Kong Fire Documentary)
-網址：https://github.com/VansonLeung/Hong-Kong-Fire-Documentary
+網址：https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
 授權：CC BY-SA 4.0
 ```
 
@@ -136,7 +136,7 @@ When using original content from this repository, please use the following attri
 
 ```
 Source: 11.26 Tai Po Wang Fuk Court Fire Documentary (Hong Kong Fire Documentary)
-URL: https://github.com/VansonLeung/Hong-Kong-Fire-Documentary
+URL: https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
 License: CC BY-SA 4.0
 ```
 
