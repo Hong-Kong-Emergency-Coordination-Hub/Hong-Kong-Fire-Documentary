@@ -5,7 +5,14 @@
   "source_file": "content/news/大公文匯/README.md",
   "scraped_at": "2025-11-28",
   "archive_path": "content/news/大公文匯/archive/【A7-宏福苑五級火-搭棚維修調查❶-揭開維修棚架背後重重黑幕】",
-  "authors": ["張真", "李雅雯", "陳玥", "馮錫雄"],
-  "date": "2025-11-28"
+  "authors": ["張真", "李雅雯", "陳玥", "馮錫雄", "伍軒沛", "易曉彤"],
+  "date": "2025-11-28",
+  "pdf": {
+    "local": "content/news/大公文匯/pdf/A7_Screen.pdf",
+    "original": "https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf",
+    "wayback": "https://web.archive.org/web/20251129115931/https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf",
+    "sha256": "82d7ac89e88890b740201cb51c8fdd28a4677a8e707d716b0789bf99b09b2e18",
+    "md5": "8e0ed89a44c421af14020419386c7fba"
+  }
 }
 
